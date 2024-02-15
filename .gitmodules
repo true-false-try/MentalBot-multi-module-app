@@ -1,0 +1,7 @@
+[submodule "AppBot"]
+    path = AppBot
+    url = https://github.com/true-false-try/AppBot
+
+[submodule "Vault"]
+    path = Vault
+    url = https://github.com/true-false-try/Vault
