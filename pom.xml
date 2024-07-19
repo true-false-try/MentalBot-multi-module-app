@@ -10,6 +10,7 @@
     <modules>
         <module>AppBot</module>
         <module>Vault</module>
+        <module>Redis</module>
     </modules>
 
     <properties>
