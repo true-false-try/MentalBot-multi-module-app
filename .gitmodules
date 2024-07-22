@@ -5,3 +5,7 @@
 [submodule "Vault"]
     path = Vault
     url = https://github.com/true-false-try/Vault
+
+[submodule "Vault"]
+    path = Redis
+    url = https://github.com/true-false-try/Redis
