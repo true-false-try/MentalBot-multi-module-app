@@ -7,5 +7,5 @@
     url = https://github.com/true-false-try/Vault
 
 [submodule "Redis"]
-    path = Redis
+    path = Redisrm -rf .git/modules/Redis
     url = https://github.com/true-false-try/Redis
