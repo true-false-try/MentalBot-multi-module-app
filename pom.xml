@@ -9,8 +9,8 @@
 
     <modules>
         <module>AppBot</module>
-        <module>Vault</module>
         <module>Redis</module>
+        <module>Vault</module>
     </modules>
 
     <properties>
@@ -29,5 +29,4 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
 </project>
