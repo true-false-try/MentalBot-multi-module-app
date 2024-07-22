@@ -8,4 +8,4 @@
 
 [submodule "Redis"]
     path = Redis
-    url = https://github.com/true-false-try/Redis.git
+    url = https://github.com/true-false-try/Redis
